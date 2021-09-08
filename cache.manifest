@@ -1,0 +1,18 @@
+CACHE MANIFEST
+# Resources to cache – it is a comment
+CACHE:
+index.html
+previous.html
+style.css
+assests/1.jpg
+assests/2.jpg
+assests/3.jpg
+assests/4.jpg
+assests/5.jpg
+assests/6.jpg
+assests/11.jpg
+assests/12.jpg
+assests/13.jpg
+assests/14.jpg
+assests/15.jpg
+assests/16.jpg
